@@ -16,6 +16,11 @@ I have used the help of ChatGPT to write this readme file and for the function t
 
 ---
 
+### Starting the server:
+
+![image](https://github.com/user-attachments/assets/f5ba437b-933c-417a-85f4-2a88997cc476)
+
+
 ### API Endpoints:
 
 #### 1. **Get Request to Display All Books**
