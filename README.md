@@ -19,7 +19,8 @@ This project is a simple Go CRUD application for managing a collection of books,
 #### 1. **Get Request to Display All Books**
    Retrieves the list of all books in the library.
    
-   ![Get all books](https://user-images.githubusercontent.com/attachments/4e3de758-a037-42a5-81f9-bb6ef834c88c)
+![image](https://github.com/user-attachments/assets/dc1d3e1a-29aa-4347-8be9-63414cc920e4)
+
 
 ---
 
